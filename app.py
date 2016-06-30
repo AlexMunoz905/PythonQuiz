@@ -1,7 +1,7 @@
 # Author: Cubed | Alex Munoz
 # Email: alex@napend.com
 # Site: alex-munoz.net
-# Also.... This is python.... Just for my dad........
+
 
 # Tells them the begining
 print("Quiz: Written by Cubed | Alex Munoz")
